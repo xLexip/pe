@@ -13,7 +13,6 @@
 #### Cheeseburger Device Tree
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xLexip&repo=pe_device_oneplus_cheeseburger)](https://github.com/xLexip/pe_device_oneplus_cheeseburger)
 
-#### ROM Source
-[@PixelExperience](https://github.com/PixelExperience)
+#### ROM Source: [@PixelExperience](https://github.com/PixelExperience)
 
 
