@@ -2,7 +2,6 @@
 
 [![STATUS badge](https://img.shields.io/badge/STATUS-BETA-YELLOW.svg)
 [![MAINTAINED badge](https://img.shields.io/badge/MAINTAINED-YES-GREEN.svg)
-[![STATUS badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/lexipc)
 
 
 
