@@ -1,6 +1,6 @@
 # Pixel Experience 11 for OnePlus 5/5T - Unofficial
 
-[![Generic badge](https://img.shields.io/badge/STATUS-BETA-YELLOW.svg)]
+![Generic badge](https://img.shields.io/badge/STATUS-BETA-YELLOW.svg)
 
 ## Sources
 
