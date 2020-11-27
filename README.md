@@ -2,7 +2,7 @@
 
 [![status badge](https://img.shields.io/badge/STATUS-BETA-ffff00?style=for-the-badge)](https://t.me/lexipc) &nbsp; 
 [![maintained badge](https://img.shields.io/badge/MAINTAINED-YES-00ee00?style=for-the-badge)](https://t.me/lexipc) &nbsp;
-[![known badge](https://img.shields.io/badge/KNOWN-ISSUES-ff2200?style=for-the-badge)](https://github.com/xLexip/pe/issues) <br />
+[![known badge](https://img.shields.io/badge/KNOWN-ISSUES-ffaa00?style=for-the-badge)](https://github.com/xLexip/pe/issues) <br />
 [![telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lexipc) &nbsp; 
 [![xda badge](https://img.shields.io/badge/XDA_Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white)](https://t.me/lexipc) 
 
