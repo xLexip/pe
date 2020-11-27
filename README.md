@@ -3,7 +3,10 @@
 [![status badge](https://img.shields.io/badge/STATUS-BETA-eeee00?style=for-the-badge)](https://t.me/lexipc) &nbsp; 
 [![maintained badge](https://img.shields.io/badge/MAINTAINED-YES-00cc00?style=for-the-badge)](https://t.me/lexipc) <br />
 [![telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lexipc) &nbsp; 
-[![xda badge](https://img.shields.io/badge/XDA_Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white)](https://t.me/lexipc)
+[![xda badge](https://img.shields.io/badge/XDA_Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white)](https://t.me/lexipc) <br />
+[![known badge](https://img.shields.io/badge/KNOWN-ISSUES-{ffaa00}?style=for-the-badge)](https://t.me/lexipc) &nbsp; 
+
+
 
 
 
