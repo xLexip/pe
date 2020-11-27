@@ -1,5 +1,8 @@
 # Pixel Experience 11 for OnePlus 5/5T - Unofficial
 
+[![Maintained badge](https://img.shields.io/badge/MAINTAINED-YES-GREEN.svg)](https://shields.io/)
+
+
 ## Sources
 
 #### Device Common Tree
@@ -13,7 +16,6 @@
 
 #### Used Kernel
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LineageOS-oneplus5&repo=android_kernel_oneplus_msm8998)](https://github.com/LineageOS-oneplus5/android_kernel_oneplus_msm8998)
-
 
 #### ROM Source: [@PixelExperience](https://github.com/PixelExperience)
 
