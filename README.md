@@ -1,7 +1,6 @@
 # Pixel Experience 11 for OnePlus 5/5T - Unofficial
 
-![status badge](https://img.shields.io/badge/STATUS-BETA-YELLOW.svg)(https://github.com/xLexip/pe/)
-![maintained badge](https://img.shields.io/badge/MAINTAINED-YES-GREEN.svg)(https://github.com/xLexip/pe/)
+[![status badge](https://img.shields.io/badge/STATUS-BETA-YELLOW.svg)](https://github.com/xLexip/pe/)
 
 ## Sources
 
