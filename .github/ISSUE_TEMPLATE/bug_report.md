@@ -19,13 +19,13 @@ A clear and concise description of what the bug is.
 **Expected behavior:**
 A clear and concise description of what you expected to happen.
 
-**Screenshots:**
-If applicable, add screenshots to help explain your problem.
+**Screenshots / Screen-casts:**
+If applicable, add screenshots or screen-casts to help explain your problem.
 
 **Device:**
  - Model: [Dumpling (5T) / Cheeseburger (5)]
  - Build date: [e.g. 1127 for the build from 27th November]
-- Rooted: [yes/no]
+ - Rooted: [yes/no]
 
 **Additional context:**
 Add any other context about the problem here.
