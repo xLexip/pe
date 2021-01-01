@@ -19,7 +19,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xLexip&repo=pe_device_oneplus_cheeseburger)](https://github.com/xLexip/pe_device_oneplus_cheeseburger)
 
 #### Kernel Tree
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xlexip&repo=pe_kernel_oneplus_msm8998)](https://github.com/ederekun/lazy_kernel_op5-t/tree/X-alt)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xlexip&repo=pe_kernel_oneplus_msm8998)](https://github.com/xLexip/pe_kernel_oneplus_msm8998)
 
 #### Vendor Tree
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMuppets&repo=proprietary_vendor_oneplus)](https://github.com/TheMuppets/proprietary_vendor_oneplus)
