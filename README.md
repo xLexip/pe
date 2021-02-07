@@ -18,6 +18,9 @@
 #### Cheeseburger Device Tree
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xLexip&repo=pe_device_oneplus_cheeseburger)](https://github.com/xLexip/pe_device_oneplus_cheeseburger)
 
+#### Lexip's Hub // Updater App
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xlexip&repo=ota_updater)](https://github.com/xLexip/ota_updater)
+
 #### Kernel Tree
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=karthik990&repo=kernel_oneplus_msm8998)](https://github.com/karthik990/kernel_oneplus_msm8998)
 
