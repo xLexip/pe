@@ -1,6 +1,6 @@
 ## Pixel Experience 11 for OnePlus 5/5T - Unofficial
 
-[![Download Pixel Experience - OnePlus 5 Series](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/peop5/files/latest/download) <br />
+[![Download Pixel Experience - OnePlus 5 Series](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/peop5/files/latest/download) <br /> <br />
 [![status badge](https://img.shields.io/badge/STATUS-BETA-ffff00?style=for-the-badge)](https://t.me/lexipc) &nbsp; 
 [![maintained badge](https://img.shields.io/badge/MAINTAINED-YES-00ee00?style=for-the-badge)](https://t.me/lexipc) &nbsp;<br />
 [![telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lexipc) &nbsp; 
