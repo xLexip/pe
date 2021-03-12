@@ -25,7 +25,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=karthik990&repo=kernel_oneplus_msm8998)](https://github.com/karthik990/kernel_oneplus_msm8998)
 
 #### Vendor Tree
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheMuppets&repo=proprietary_vendor_oneplus)](https://github.com/TheMuppets/proprietary_vendor_oneplus)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xLexip&repo=pe_vendor_oneplus)](https://github.com/xLexip/pe_vendor_oneplus)
 
 #### ROM Source: [@PixelExperience](https://github.com/PixelExperience)
 
