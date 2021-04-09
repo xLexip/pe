@@ -14,7 +14,7 @@
 
 **Have Fun with Pixel Experience!** <br />
 Free software, hell yeah! But if you like my work, feel free to motivate me by [donating me a donut](http://bit.ly/lexip-pp)! ;P
-<br />
+<br /> <br />
 
 ## Sources
 
