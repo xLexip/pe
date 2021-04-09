@@ -31,7 +31,7 @@ Free software, hell yeah! But if you like my work, feel free to motivate me by [
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xlexip&repo=ota_updater)](https://github.com/xLexip/ota_updater)
 
 #### Kernel Tree
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=karthik990&repo=kernel_oneplus_msm8998)](https://github.com/karthik990/kernel_oneplus_msm8998)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ederekun&repo=lazy_kernel_op5-t)](https://github.com/ederekun/lazy_kernel_op5-t/tree/custom-staging)
 
 #### Vendor Tree
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xLexip&repo=pe_vendor_oneplus)](https://github.com/xLexip/pe_vendor_oneplus)
