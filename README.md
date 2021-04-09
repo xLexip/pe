@@ -6,14 +6,15 @@
 [![telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lexipc) &nbsp; 
 [![xda badge](https://img.shields.io/badge/XDA_OnePlus_5T-F59812?style=for-the-badge&logo=xda-developers&logoColor=white)](https://forum.xda-developers.com/t/rom-11-0-x-unofficial-pixel-experience-dumpling.4198963/)  &nbsp; 
 [![xda badge](https://img.shields.io/badge/XDA_OnePlus_5-F59812?style=for-the-badge&logo=xda-developers&logoColor=white)](https://forum.xda-developers.com/t/rom-11-0-x-unofficial-pixel-experience-cheeseburger.4198973/) 
-
+<br />
 ### 𝗣𝗶𝘅𝗲𝗹 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲  
 ...is an AOSP based ROM, with Google apps included and all the Pixel goodies. Our mission is to offer the maximum possible performance, stability and security, along with essential and useful features for the proper functioning of your device.
 
 #### You can find all important information, guides and links on the [Help Page](https://telegra.ph/Help-Page-04-02).
 
-**Have Fun with Pixel Experience!** 
+**Have Fun with Pixel Experience!** <br />
 Free software, hell yeah! But if you like my work, feel free to motivate me by [donating me a donut](http://bit.ly/lexip-pp)! ;P
+<br />
 
 ## Sources
 
