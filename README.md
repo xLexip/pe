@@ -1,7 +1,7 @@
 ## Pixel Experience 11 for the OnePlus 5 Series
 
 [![Download Pixel Experience - OnePlus 5 Series](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/peop5/files/latest/download)   [![Download Pixel Experience](https://img.shields.io/sourceforge/dm/peop5.svg)](https://sourceforge.net/projects/peop5/files/latest/download) <br /> <br />
-[![status badge](https://img.shields.io/badge/STATUS-BETA-ffff00?style=for-the-badge)](https://t.me/lexipc) &nbsp; 
+[![status badge](https://img.shields.io/badge/STATUS-STABLE-00ff00?style=for-the-badge)](https://t.me/lexipc) &nbsp; 
 [![maintained badge](https://img.shields.io/badge/MAINTAINED-YES-00ee00?style=for-the-badge)](https://t.me/lexipc) &nbsp;<br />
 [![telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lexipc) &nbsp; 
 [![xda badge](https://img.shields.io/badge/XDA_OnePlus_5T-F59812?style=for-the-badge&logo=xda-developers&logoColor=white)](https://forum.xda-developers.com/t/rom-11-0-x-unofficial-pixel-experience-dumpling.4198963/)  &nbsp; 
